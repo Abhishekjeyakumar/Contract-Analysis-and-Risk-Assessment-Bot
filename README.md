@@ -43,8 +43,6 @@ Non-compete and auto-renewal clauses
 
 🔐 Fully offline and confidential (no external legal databases)
 
-🧠 GenAI Integration
-
 The system integrates Generative AI (LLM) selectively for:
 
 Contract summarization
